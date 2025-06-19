@@ -7,17 +7,18 @@ Hello, I'm Ian McFarlane, alias "Macafry". I'm a data scientist and software eng
   <a href="https://linkedin.com/in/ian-mc-farlane" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" />
   </a>&nbsp;&nbsp;
-  <a href="https://github.com/Macafr" target="_blank">
+  <a href="https://github.com/Macafry" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" />
   </a>&nbsp;&nbsp;
-  <a href="mailto:ian.mcfarlane270@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="40" />
+  <a href="https://discord.com/users/331096744547057664"  target="_blank">
+    <img src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-0.png" width="40" alt="Discord"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/ian.macafry/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" />
   </a>
 </div>
 
+**Email:** [ian.mcfarlane270@gmail.com](mailto:ian.mcfarlane270@gmail.com) 
 
 ---
 
